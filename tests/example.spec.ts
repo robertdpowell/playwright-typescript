@@ -8,7 +8,7 @@ test('has title', async ({ page }) => {
 });
 
 test('get about link', async ({ page }) => {
-  await page.goto('https://tweetsinwelsh.com');
+  await page.goto('https://tweetsinwelsh.corm');
 
   // Click the get started link.
   await page.getByRole('link', { name: 'About' }).click();
