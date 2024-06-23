@@ -1,0 +1,13 @@
+{
+  "name": "playwright-training",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/robertdpowell/playwright-training.git",
+  "author": "robertdpowell <robertdpowell@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.44.1",
+    "@types/node": "^20.14.8"
+  },
+  "scripts": {}
+}
